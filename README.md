@@ -13,15 +13,15 @@ This is a Project by Rocketseat [Iginite Lab](https://www.rocketseat.com.br).
 - [Author](#author)
 
 ## Overview
-  Application with features where you can sign up for the page with your email and access the page content for an Event where you can choose classes. 
+  Application with features where you can sign up the page with your email and access the page content for an Event where you can choose classes. 
+  Not all the components have functionality a few of them are just following the layout.
 
 ### The challenge
 
 Users should be able to:
 
-- View the optimal layout for the site depending on their device's screen size.
 - See hover states for all interactive elements on the page.
-- Post comments and also delete them.
+- Sign up the page for an Event.
 
 ### Screenshot
 
@@ -39,7 +39,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - React - JS library
 - TailWind - For styles
 
